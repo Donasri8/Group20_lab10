@@ -20,7 +20,11 @@ int main(void)
 {
 	int s1,s2,s3;
 	int k=8;
+	int p=10;
+	int m=18;
 	s1= series_sum(k);
+	s2= series_sum(p);
+	s3= series_sum(m);
 	while(1);
 
 }
